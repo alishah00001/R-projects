@@ -1,3 +1,11 @@
+# Applied Statistics and Data Visualization Project
+
+## Project Overview
+This project contains a comprehensive statistical analysis and data visualization assignment covering:
+1. Exploratory Data Analysis (EDA) and regression modeling of concrete compressive strength
+2. Time series analysis of live births in England and Wales
+
+The analysis was conducted in R, with a focus on statistical techniques, visualization methods, and model interpretation.
 
 ## Key Analyses Performed
 
